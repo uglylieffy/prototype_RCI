@@ -116,7 +116,7 @@ npm run dev
 ### Then...
 Open  [http://localhost:3000](http://localhost:3000/)  with your browser to see the result.
 This project uses  [`next/font`](https://nextjs.org/docs/basic-features/font-optimization)  to automatically optimize and load Inter, a custom Google Font.
-
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
 ## :mag:Learn More
   To learn more about Next.js, take a look at the following resources:
@@ -125,7 +125,7 @@ This project uses  [`next/font`](https://nextjs.org/docs/basic-features/font-opt
 -   [Learn Next.js](https://nextjs.org/learn)  - an interactive Next.js tutorial.
 
 You can check out  [the Next.js GitHub repository](https://github.com/vercel/next.js/)  - your feedback and contributions are welcome!
-
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 ## :pencil2:Contribution
 
  :one:. [Uglylieffy](https://github.com/uglylieffy)
@@ -147,3 +147,8 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/prototype_RCI`)
     
 5.  Open a Pull Request
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+### License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
